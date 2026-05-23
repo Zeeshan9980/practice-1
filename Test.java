@@ -4,7 +4,9 @@ public class Test{
         int b=8;
         int sum=a+b;
         int sub=a-b;
+        int mul=a*b;
         System.out.println("Performing addition "+sum);
         System.out.println("performing subtraction "+sub);
+        System.out.println("performing multiplication "+mul);
     }
 }
