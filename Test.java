@@ -3,6 +3,8 @@ public class Test{
         int a=12;
         int b=8;
         int sum=a+b;
+        int sub=a-b;
         System.out.println("Performing addition "+sum);
+        System.out.println("performing subtraction "+sub);
     }
 }
